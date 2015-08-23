@@ -1,0 +1,9 @@
+[user]
+	name = bworkie
+	email = bworkie@gmail.com
+[core]
+	editor = vim
+[push]
+	default = upstream
+[merge]
+	conflictstyle = diff3
